@@ -24,7 +24,7 @@ const Header = () => {
                 </div>
                 <div className="profile-wrapper">
                     <i class="fa-solid fa-user header-profile-image"></i>
-                    <span className='header-username'>Kushal</span>
+                    <span className='header-username'>John</span>
                     <i className="fa-solid fa-caret-down absolute-center profile-options-icon"></i>
                 </div>
             </div>
