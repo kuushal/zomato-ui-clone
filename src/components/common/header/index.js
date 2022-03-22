@@ -14,7 +14,7 @@ const Header = () => {
                             <i className="fa-solid fa-location-dot absolute-center location-icon"></i>
                             <div>Bangalore</div>
                         </div>
-                        <i class="fa-solid fa-caret-down absolute-center"></i>
+                        <i className="fa-solid fa-caret-down absolute-center"></i>
                     </div>
                     <div className="location-search-separator"></div>
                     <div className="header-search-bar">
@@ -23,7 +23,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div className="profile-wrapper">
-                    <i class="fa-solid fa-user header-profile-image"></i>
+                    <i className="fa-solid fa-user header-profile-image"></i>
                     <span className='header-username'>John</span>
                     <i className="fa-solid fa-caret-down absolute-center profile-options-icon"></i>
                 </div>
