@@ -6,7 +6,7 @@ import Delivery from "../../components/delivery";
 import DiningOut from "../../components/diningOut";
 import NightLife from "../../components/nightLife";
 const HomePage = () => {
-    const [activeTab, setActiveTab] = useState("DiningOut")
+    const [activeTab, setActiveTab] = useState("Delivery")
 
 
     const getCorrectScreen = (tab) => {
