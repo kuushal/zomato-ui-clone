@@ -1,6 +1,7 @@
 import Filter from '../common/filters';
 import './delivery.css'
 import DeliveryCollections from './deliveryCollections';
+import TopBrands from './topBrands';
 
 const deliveryFilters = [
     {
@@ -37,6 +38,7 @@ const Delivery = () => {
                 <Filter filtersList={deliveryFilters} />
             </div>
             <DeliveryCollections />
+            <TopBrands />
         </div>
     )
 }
