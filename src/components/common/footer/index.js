@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <div>This is footer</div>
+        <div className="absolute-center">@2022</div>
     )
 }
 export default Footer;
